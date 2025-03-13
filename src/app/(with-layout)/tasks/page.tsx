@@ -335,20 +335,6 @@ export default function HomePage() {
     <div className="container max-w-md mx-auto p-4 pb-24">
       <div className="flex items-center mb-6">
         <h1 className="text-4xl font-bold">Pet Tasks Reminder</h1>
-        <div className="ml-2">
-          <svg
-            width="40"
-            height="40"
-            viewBox="0 0 40 40"
-            fill="none"
-            xmlns="http://www.w3.org/2000/svg"
-          >
-            <path
-              d="M10 15C10 12 12 10 15 10C18 10 20 12 20 15C20 18 18 20 15 20C12 20 10 18 10 15ZM30 15C30 12 32 10 35 10C38 10 40 12 40 15C40 18 38 20 35 20C32 20 30 18 30 15ZM15 25C15 22 17 20 20 20C23 20 25 22 25 25C25 28 23 30 20 30C17 30 15 28 15 25ZM35 25C35 22 37 20 40 20C43 20 45 22 45 25C45 28 43 30 40 30C37 30 35 28 35 25Z"
-              fill="#3e75df"
-            />
-          </svg>
-        </div>
       </div>
 
       {/* Search and filters */}
