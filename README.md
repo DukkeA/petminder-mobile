@@ -2,6 +2,8 @@
 
 Proyecto creado para la entrega de diseño movil de la materia UX mejoramiento de la experiencia de usuario
 
+El APK se puede descargar desde el repo o desde el release
+
 ## Requisitos
 
 - Docker
