@@ -1,0 +1,8 @@
+version: '3'
+services:
+  uxmobile:
+    build:
+      context: .
+    container_name: webux_next
+    ports:
+      - "4101:3000"
