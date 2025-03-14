@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.andres_duque.petminder.twa",
+      "sha256_cert_fingerprints": [
+        "EC:29:09:55:A6:6D:68:95:BE:EB:C7:DE:AB:4B:2C:2F:E2:79:D4:C9:1A:90:DD:C7:9F:C4:FB:5B:DD:7C:E2:70"
+      ]
+    }
+  }
+]
